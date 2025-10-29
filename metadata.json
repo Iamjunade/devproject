@@ -1,0 +1,5 @@
+{
+  "name": "Data Visualization Dashboard",
+  "description": "A modern and responsive dashboard showcasing various types of charts for data exploration and analysis. Built with React, TypeScript, and Tailwind CSS using the Recharts library.",
+  "requestFramePermissions": []
+}
